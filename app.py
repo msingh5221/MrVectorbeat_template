@@ -202,8 +202,8 @@ if strana == "Pretraga":
     st.title("Pretraga")
     st.caption("Kucajte naziv pesme ili izvodjaca.")
 
-    # Koristi: stablo, kgram_indeks, ucitaj_popularnost(), df,
-    #          prikaz.sugestija(), prikaz.kartica()
+    # Koristi: st_keyup (from st_keyup import st_keyup), stablo, kgram_indeks,
+    #          ucitaj_popularnost(), df, prikaz.sugestija(), prikaz.kartica()
 
 
 # --- Katalog -----------------------------------------------------------
